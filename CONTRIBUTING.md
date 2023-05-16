@@ -146,8 +146,7 @@ Here is a summary of the steps to follow:
 
 ### Setup
 
-Before you can build and test the **Snicco** repository, you must install have the following software installed on
-your development machine:
+Before you can build and test the **Snicco** repository, you must have the following software installed on your development machine:
 
 - [PHP](https://www.php.net/): Either `7.4` | `8.0` | `8.1` as defined in the `composer.json` file.
 - Optional: [Node.js + npm](https://nodejs.org/en/), **node.js** is not required to test the source code but will have
