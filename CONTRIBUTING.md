@@ -113,7 +113,7 @@ Here is a summary of the steps to follow:
 3. [Fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
    the [`snicco/snicco`](https://github.com/snicco/snicco) repo.
 4. [Set up the development environment.](#development-environment)
-5. [Clone your for](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) to
+5. [Clone your fork](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) to
    your local machine.
 6. In your forked repository, make your changes in a new git branch:
      ```shell
